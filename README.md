@@ -1,6 +1,6 @@
 # Formulário animado com JS puro e CSS Animation
 
-## Desafios
+## Descrição
 
 Projeto de formulário de login animado.
 
