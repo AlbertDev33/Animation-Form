@@ -12,6 +12,8 @@ Nenhum framework foi utilizado nesse projeto.
 
 ## Animation
 
+![](https://github.com/AlbertDev33/Animation-Form/blob/master/animationForm.gif)
+
 Propriedades CSS Animation utilizadas:
 
 - animation-name: animationname;
