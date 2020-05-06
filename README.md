@@ -12,7 +12,6 @@ Nenhum framework foi utilizado nesse projeto.
 
 ## Animation
 
-
 Propriedades CSS Animation utilizadas:
 
 - animation-name: animationname;

@@ -10,7 +10,7 @@ body {
 }
 
 body {
-  background-color: #7159c1;
+  background-color: #08335c;
   font-family: Roboto, Arial, sans-serif;
 }
 
@@ -60,7 +60,7 @@ form .btn-login {
   display: block;
   min-width: 120px;
   border: none;
-  background-color: #7159c1;
+  background-color: #08335c;
   color: white;
   border-radius: 25px;
   margin: auto;
